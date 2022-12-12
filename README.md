@@ -10,7 +10,7 @@
 
 ## Project key objectives
 * it will probably look like Bloomberg Terminal
-* Python GUI or Golang CLI
+* Python GUI or Golang CLI or C++ with https://github.com/ocornut/imgui 
 * learn and apply quantitative techniques
 * apply computer vision for stock pattern recognition
 * apply NLP for news and economic calendar
