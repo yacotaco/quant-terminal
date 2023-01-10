@@ -15,7 +15,3 @@
 * apply computer vision for stock pattern recognition
 * apply NLP for news and economic calendar
 
-Maybe I'll reuse old books I bought back in 2007 when
-I started my journey with stock markets and forex.
-
-<img src="IMG_20221211_152754.jpg" width="35%">
